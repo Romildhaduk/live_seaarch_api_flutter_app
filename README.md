@@ -1,8 +1,6 @@
-# pixelapi
+# Pixelapi
 
-A new Flutter project.
-
-## Getting Started
+## 📲Screenshots
 
 This project is a starting point for a Flutter application.
 
